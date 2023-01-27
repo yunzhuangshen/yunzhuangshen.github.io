@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at RMIT University, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://yuansuny.github.io/). My research explores the use of machine learning to enhance traditional optimization techniques, such as column generation.
+I am a final-year PhD student at RMIT University, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun). My research explores the use of machine learning to enhance traditional optimization techniques, such as column generation.
 
 ## Papers 
-1. __Shen, Y.__, Sun, Y., Li, X., Eberhard, A., & Ernst, A. (2022). Multi-shot Solution Prediction for Combinatorial Optimization. Under Review. [[PDF]](https://arxiv.org/pdf/2204.08700.pdf)
+1. __Shen, Y.__, Sun, Y., Li, X., Eberhard, A., & Ernst, A. (2023). Adaptive Solution Prediction for Combinatorial Optimization. Accepted to European Journal of Operations Research. [[PDF]](https://arxiv.org/abs/2204.08700)
 
 2. __Shen, Y.__, Sun, Y., Li, X., Eberhard, A., Ernst, A. (2022). Enhancing Column Generation by a Machine-Learning-Based Pricing Heuristic for Graph Coloring. In *Proceedings of the Thirty-Six AAAI Conference on Artificial Intelligence (AAAI-22)*. [[PDF]](https://arxiv.org/pdf/2112.04906.pdf) [[Code]](https://github.com/Joey-Shen/MLPH)
 
