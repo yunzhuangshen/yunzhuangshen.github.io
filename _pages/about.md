@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at RMIT University, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun). My research explores the use of machine learning to enhance traditional optimization techniques, such as column generation.
+I am a PhD graduate in machine learning and operations research, RMIT University, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun). I did a short-term postdoc at AAII lab, UTS, under the guidance of Dist. Prof [Jie Lu](https://profiles.uts.edu.au/jie.lu).
+
+
 
 ## Papers 
 1. __Shen, Y.__, Sun, Y., Li, X., Eberhard, A., & Ernst, A. (2023). Adaptive Solution Prediction for Combinatorial Optimization. Accepted to European Journal of Operations Research. [[PDF]](https://arxiv.org/abs/2204.08700)
