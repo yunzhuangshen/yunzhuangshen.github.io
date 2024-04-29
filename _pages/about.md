@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD graduate in machine learning and operations research, RMIT University, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun). I did a short-term postdoc at AAII lab, UTS, under the guidance of Dist. Prof [Jie Lu](https://profiles.uts.edu.au/jie.lu).
+I did my PhD@RMIT in machine learning and operations research, advised by Prof. [Xiaodong Li](https://titan.csit.rmit.edu.au/~e46507), Prof. [Andrew Eberhard](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/e/eberhard-professor-andrew), and Dr. [Yuan Sun](https://scholars.latrobe.edu.au/y6sun). I did a postdoc in Trustworthy machine learning @UTS, under the guidance of Dist. Prof [Jie Lu](https://profiles.uts.edu.au/jie.lu).
 
 
 
